@@ -1,1 +1,2 @@
-<h2>Printf project</h2>.   This project is about building a custom printf function in c programming language. This project was done in fulfillment of the course requirement of ALX Software Engineering course objective. This project was done collaboratively by AmosLucky and Stanley-moses.   
+<h2>Printf project</h2>.   This project is about building a custom printf function in c programming language. This project was done in fulfillment of the course requirement of ALX Software Engineering course objective. This project was done collaboratively by AmosLucky and Stanley-moses.
+<h3>0-character_operation.c</h3>   [0-character_operations.c](./0-character_operations.c) - Contains print_c and print_s function used to print char and string respectively.   
