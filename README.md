@@ -1,2 +1,1 @@
-This is all about the printf team project
-0-character_operations.c contains a function that prints characters
+<h2>Printf project</h2>.   This project is about building a custom printf function in c programming language. This project was done in fulfillment of the course requirement of ALX Software Engineering course objective. This project was done collaboratively by AmosLucky and Stanley-moses.   
